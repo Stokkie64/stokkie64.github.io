@@ -9,7 +9,7 @@ This site is intended as a playground for docker and hosted services.
 
 
 # Tech:
-The site is hosted on docker.
+The site is hosted via Github Pages.
 
 Using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
