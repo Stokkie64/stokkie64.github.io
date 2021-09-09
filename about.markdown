@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Purpose
-This site is intended as a playground for docker and hosted services.
-
-
 # Tech:
 The site is hosted via Github Pages.
 
