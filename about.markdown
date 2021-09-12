@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 # Tech:
-The site is hosted via [Github Pages](https://pages.github.com/).
-You can find the source code in my [Github repo](https://github.com/Stokkie64/stokkie64.github.io). 
+This site is hosted via [Github Pages](https://pages.github.com/).
+You can find the source code [here](https://github.com/Stokkie64/stokkie64.github.io). 
 
-Using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The site is powered by Jekyll using a modified version of the Minima theme.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
